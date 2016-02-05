@@ -3,97 +3,97 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Spiral Roller Coaster
-STR_0003    :Stand-up Roller Coaster
-STR_0004    :Suspended Swinging Coaster
-STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
-STR_0007    :Miniature Railroad
-STR_0008    :Monorail
-STR_0009    :Mini Suspended Coaster
-STR_0010    :Boat Hire
-STR_0011    :Wooden Wild Mouse
-STR_0012    :Steeplechase
-STR_0013    :Car Ride
-STR_0014    :Launched Freefall
-STR_0015    :Bobsled Coaster
-STR_0016    :Observation Tower
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
-STR_0019    :Mine Train Coaster
-STR_0020    :Chairlift
-STR_0021    :Corkscrew Roller Coaster
-STR_0022    :Maze
-STR_0023    :Spiral Slide
-STR_0024    :Go Karts
-STR_0025    :Log Flume
-STR_0026    :River Rapids
-STR_0027    :Bumper Cars
-STR_0028    :Pirate Ship
+STR_0002    :Spiraal tuimeltrein
+STR_0003    :Staande tuimeltrein
+STR_0004    :Swaaiende tuimeltrein
+STR_0005    :Omgekeerde tuimeltrein
+STR_0006    :Junior tuimeltrein
+STR_0007    :Miniatuur spoorlyn
+STR_0008    :Monospoor
+STR_0009    :Mini staande tuimeltrein
+STR_0010    :Bootrit
+STR_0011    :Hout wilde muis
+STR_0012    :Hindernis wedren
+STR_0013    :Motor rit
+STR_0014    :Geloodse vryval
+STR_0015    :Bobslee tuimeltrein
+STR_0016    :Observasie toring
+STR_0017    :Herhalende tuimeltrein
+STR_0018    :Sloep gly
+STR_0019    :Myn wa tuimeltrein
+STR_0020    :Stoel hysbak
+STR_0021    :Kurktrekker tuimeltrein
+STR_0022    :Doolhof
+STR_0023    :Spiraal glybaan
+STR_0024    :Go-karts
+STR_0025    :Boomstam glybaan
+STR_0026    :Rivierstroom rit
+STR_0027    :Dodgems
+STR_0028    :Seerower Skip
 STR_0029    :Swinging Inverter Ship
-STR_0030    :Food Stall
-STR_0031    :Unknown Stall (1D)
-STR_0032    :Drink Stall
-STR_0033    :Unknown Stall (1F)
-STR_0034    :Shop
-STR_0035    :Carousel
-STR_0036    :Unknown Stall (22)
-STR_0037    :Information Kiosk
-STR_0038    :Restroom
+STR_0030    :Kos stalletjie
+STR_0031    :Onbekende stalletjie (1D)
+STR_0032    :Drank stalletjie
+STR_0033    :Onbekende stalletjie (1F)
+STR_0034    :Winkel
+STR_0035    :Merry-Go-Round
+STR_0036    :Onbekende stalletjie (22)
+STR_0037    :Informasie Kiosk
+STR_0038    :Toilette
 STR_0039    :Ferris Wheel
-STR_0040    :Motion Simulator
-STR_0041    :3D Theater
+STR_0040    :Bewegingssimulator
+STR_0041    :3D Teater
 STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Reverse Freefall Coaster
-STR_0045    :Elevator
-STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :ATM
+STR_0043    :Ruimte Ringe
+STR_0044    :Teenspoed vryval tuimeltrein
+STR_0045    :Hysbak
+STR_0046    :Vertikale afval tuimeltrein
+STR_0047    :Kontant masjien
 STR_0048    :Twist
-STR_0049    :Haunted House
-STR_0050    :First Aid Room
-STR_0051    :Circus Show
-STR_0052    :Tunnel Of Horror
-STR_0053    :Steel Twister Roller Coaster
-STR_0054    :Wooden Roller Coaster
-STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Wild Mouse
-STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Roller Coaster
-STR_0060    :Unknown Ride (3A)
+STR_0049    :Spookhuis
+STR_0050    :Eerstehulp kamer
+STR_0051    :Sirkus vertoning
+STR_0052    :Spooktrein
+STR_0053    :Staal Twister tuimeltrein
+STR_0054    :Hout tuimeltrein
+STR_0055    :Kant-wrywing tuimeltrein
+STR_0056    :Wilde Muis
+STR_0057    :Multi-Dimensie tuimeltrein
+STR_0058    :Onbekende Rit (38)
+STR_0059    :Vlieënde tuimeltrein
+STR_0060    :Onbekende Rit (3A)
 STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
-STR_0063    :Mini Helicopters
-STR_0064    :Lay-down Roller Coaster
-STR_0065    :Suspended Monorail
-STR_0066    :Unknown Ride (40)
-STR_0067    :Reverser Roller Coaster
-STR_0068    :Heartline Twister Coaster
-STR_0069    :Mini Golf
-STR_0070    :Giga Coaster
+STR_0062    :Plonsbote
+STR_0063    :Mini Helikopters
+STR_0064    :Neerlê tuimeltrein
+STR_0065    :Omgekeerde monorail
+STR_0066    :Onbekende Rit (40)
+STR_0067    :Agteruit tuimeltrein
+STR_0068    :Heartline Twister tuimeltrein
+STR_0069    :Minigolf
+STR_0070    :Giga tuimeltrein
 STR_0071    :Roto-Drop
-STR_0072    :Flying Saucers
-STR_0073    :Crooked House
-STR_0074    :Monorail Cycles
-STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Magic Carpet
-STR_0080    :Submarine Ride
-STR_0081    :River Rafts
-STR_0082    :Unknown Ride (50)
+STR_0072    :Vlieënde Pierings
+STR_0073    :Krom-huis
+STR_0074    :Fietsbaan
+STR_0075    :Kompakte Omgekeerde tuimeltrein
+STR_0076    :Water tuimeltrein
+STR_0077    :Lug-aangedrewe Vertikale tuimeltrein
+STR_0078    :Omgekeerde haarnaald tuimeltrein
+STR_0079    :Vlieënde Tapyt
+STR_0080    :Duikboot Rit
+STR_0081    :Riviervlotte
+STR_0082    :Onbekende Rit (50)
 STR_0083    :Enterprise
-STR_0084    :Unknown Ride (52)
-STR_0085    :Unknown Ride (53)
-STR_0086    :Unknown Ride (54)
-STR_0087    :Unknown Ride (55)
-STR_0088    :Inverted Impulse Coaster
-STR_0089    :Mini Roller Coaster
-STR_0090    :Mine Ride
-STR_0091    :Unknown Ride (59)
-STR_0092    :LIM Launched Roller Coaster
+STR_0084    :Onbekende Rit (52)
+STR_0085    :Onbekende Rit (53)
+STR_0086    :Onbekende Rit (54)
+STR_0087    :Onbekende Rit (55)
+STR_0088    :Omgekeerde impuls tuimeltrein
+STR_0089    :Mini tuimeltrein
+STR_0090    :Myn-rit
+STR_0091    :Onbekende Rit (59)
+STR_0092    :LIM geloodse tuimeltrein
 STR_0093    :
 STR_0094    :
 STR_0095    :
@@ -513,31 +513,32 @@ STR_0508    :
 STR_0509    :
 STR_0510    :
 STR_0511    :
-STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
-STR_0513    :A looping roller coaster where the riders ride in a standing position
-STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
-STR_0515    :A steel roller coaster with trains that are held beneath the track, with many complex and twisting track elements
-STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
-STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
-STR_0518    :Passengers travel in electric trains along a monorail track
-STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
-STR_0520    :A dock platform where guests can drive/row personal watercraft on a body of water
-STR_0521    :A fast and twisting roller coaster with tight turns and steep drops. Intensity is bound to be high.
-STR_0522    :A smaller roller coaster where the riders sit above the track with no car around them
-STR_0523    :Riders travel slowly in powered vehicles along a track-based route
-STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
-STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
-STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
-STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
-STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
-STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
-STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
+STR_0512    :'n Kompakte tuimeltrein met 'n spiraal hysbak en gladde, draaiende afval-punte.
+STR_0513    :'n Herhalende tuimeltrein waar die ruiters in 'n staande posisie ry.
+STR_0514    :Hangende karretjies onder die tuimeltrein spoor swaai uit na die kante om hoeke.
+STR_0515    :'n Staal tuimeltrein met karretjies wat onder die spoor vasgehou word, met baie kompleks en draaiende spoor elemente.
+STR_0516    :'n Rustige tuimeltrein vir mense wat nog nie die moed her vir die groter ritte nie.
+STR_0517    :Passasiers ry in miniatuur treine op 'n smal spoorlyn.
+STR_0518    :Passasiers reis in elektriese treine op 'n enkele treinspoor.
+STR_0519    :Passasiers ry in klein karretjies wat aan 'n enkele spoor hang, en vrylik van kant na kant swaai om draaie.
+STR_0520    :'n Dok platform waar besoekers 'n persoonlike watervaartuig kan bestuur/roei op 'n liggaam van water.
+STR_0521    :'n Vinnige en draaiende tuimeltrein met stywe draaie en steil afval-punte. Intensiteit is gewaarborg om hoog te wees.
+STR_0522    :'n Kleiner tuimeltrein waar ruiters bo die spoor sit met geen karretjie rondom hulle nie.
+STR_0523    :Ruiters reis met stadige pas in aangedrewe voertuie op 'n spoor roete.
+STR_0524    :Vryval karretjie wat pneumatiese op geloods word teen 'n hoë staal toring en dan toegelaat word om vrylik af te val.
+STR_0525    :Ruiters stormloop om 'n draaiende spoor net gelei deur die kromming van die semi-sirkelvormige spoor.
+STR_0526    :Passasiers reis in 'n roterende observasie kajuit wat teen 'n hoë toring opreis.
+STR_0527    :'n Gladde staal-spoor tuimeltrein wat instaat is daarvan om vertikale draaie te maak.
+STR_0528    :Ruiters reis in opblaas bootjies af in 'n semi-sirkelvormige of heeltemal toe buis spoor.
+STR_0529    :Myn-trein tema tuimeltrein stormloop om staal spoor wat soos 'n ou spoorwee spoor lyk.
+STR_0530    :Karretjies hang aan 'n staal kabel wat voortdurend van een punt van die rit na die ander en weer terug loop.
 STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
+STR_0531    :'n Kompakte staal-spoor tuimeltrein waar die trein om herhalende vertikale draaie reis.
 STR_0532    :
 STR_0533    :
-STR_0534    :Self-drive petrol-engined go karts
-STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
-STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
+STR_0534    :Self-bestuur petrol-enjin go-karts
+STR_0535    :Stomp-vormige bote wat al langs 'n water kanaal reis, en af plons by steil hellings om die ruiters nat te maak.
+STR_0536    :Sirkelvormige bote wat al langs 'n wye water kanaal druif, en deur watervalle en skuimende stroomversnellings plons.
 STR_0537    :
 STR_0538    :
 STR_0539    :
@@ -555,290 +556,290 @@ STR_0550    :
 STR_0551    :
 STR_0552    :
 STR_0553    :
-STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
-STR_0555    :Guests ride in an elevator up or down a vertical tower to get from one level to another
-STR_0556    :Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience
+STR_0554    :Die kar word uit die stasie versnel al langs 'n gelyke spoor en maak gebruik van lineêre induksie motors, gaan op teen 'n vertikale spoor, en doen dan weer 'n vryval om na die stasie terug te keer.
+STR_0555    :Besoekers ry op of af in 'n hysbak teen 'n vertikale toring om van een vlak na die ander te gaan.
+STR_0556    :Ekstra-wye karre daal neer teen 'n spoor met 'n heeltemal vertikale helling vir die uiterste vryval tuimeltrein ervaring.
 STR_0557    :
 STR_0558    :
 STR_0559    :
 STR_0560    :
 STR_0561    :
-STR_0562    :Powered cars travel along a multi-level track past spooky scenery and special effects
-STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills
-STR_0564    :Running on wooden track, this coaster is fast, rough, noisy, and gives an 'out of control' riding experience with plenty of 'air time'
-STR_0565    :A simple wooden roller coaster capable of only gentle slopes and turns, where the cars are only kept on the track by side friction wheels and gravity
-STR_0566    :Individual roller coaster cars zip around a tight zig-zag layout of track with sharp corners and short sharp drops
-STR_0567    :Sitting in seats suspended either side of the track, riders are pitched head-over-heels while they plunge down steep drops and travel through various inversions
+STR_0562    :Aangedrewe karre reis al langs 'n multi-vlak spoor verby spokerige tonele en spesiale effekte.
+STR_0563    :Ruiters sit in gemaklike treine met net eenvoudige skoot veiligheidsgordels en geniet reuse gladde afvalpunte en draaiende spore so wel as baie 'lugtyd' oor die heuwels.
+STR_0564    :Die tuimeltrein loop op 'n houtspoor en is vinnig, rof, raserig, en gee 'n 'buite beheer' ervaring met baie 'lugtyd'.
+STR_0565    :'n Eenvoudige hout tuimeltrein wat net instaat is tot rustige hellings en draaie, waar die karretjies net op die spoor gehou word deur sy-wrywing en swaartekrag.
+STR_0566    :Individuele tuimeltrein karretjies stormloop om 'n kronkelende baan met skerp hoeke en kort skerp afdalings.
+STR_0567    :Besoekers sit in stoele aan beide kante van die baan van in die rondte draai soos hulle afduik by steil afdalings en deur diverse omkerings gaan.
 STR_0568    :
-STR_0569    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air
+STR_0569    :Besoekers ry in spesiale harnasse onder die baan, en ervaar die gevoel van vlug soos hulle deur die lug vaar.
 STR_0570    :
-STR_0571    :Circular cars spin around as they travel along the zig-zagging wooden track
-STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyer belt, accelerating down steep slopes to soak the riders with a gaint splash
-STR_0573    :Powered helicoper shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travlling through twisted track and inversions either on their backs or facing the ground
-STR_0575    :Powered trains hanging from a single rail transport people around the park
+STR_0571    :Sirkel-vormige karretjies draai in die rondte soos hulle om die kronkelende baan reis.
+STR_0572    :Hoë kapasiteit bote reis op 'n wye water kanaal, aangedryf deur 'n vervoerband teen hellings op, en vernel teen steil hellings om die besoekers te week met 'n reuse splons.
+STR_0573    :Aangedrewe helikopter-vormige karretjies loop op 'n staal baan, ge-kontroleer deur besoekers wat pedale trap.
+STR_0574    :Besoekers word vasgehou in spesiale harnasse in 'n lêende posisie op hulle rue teenoor die grond, en reis deur 'n kronkelende baan met omkerings.
+STR_0575    :Aangedrewe treine wat van 'n enkele spoor afhang vervoer mense om die park.
 STR_0576    :
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
-STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
+STR_0577    :Karretjies met draaistelle loop op 'n houtbaan en kan omdraai op spesiale omkeer seksies van die baan.
+STR_0578    :Karretjies loop al langs 'n baan omring deur sirkel-vormige hoepels, en gaan deur steil afdalings en kronkels.
 STR_0579    :
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
-STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
+STR_0580    :'n Reuse staal tuimeltrein in staat van gladde afdalings en heuwels met 'n hoogte oor 300ft.
+STR_0581    :'n Ring van stoele word tot die bopunt van 'n hoe toring gehuis terwyl dit rustig roteer, dan toegelaat om af te vryval en dan onder tot stilstand te kom deur gebruik te maak van magnetiese brieke.
 STR_0582    :
 STR_0583    :
-STR_0584    :Special bicycles run on a steel monorail track, propelled by the pedalling of the riders
-STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
-STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
-STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
-STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
+STR_0584    :Spesiale fietse op 'n staal mono-spoor baan, aangedryf deur besoekers wat pedale trap.
+STR_0585    :Besoekers sit in pare in stoele wat hang aan die baan soos dit herhaal en draai om stywe omkerings.
+STR_0586    :Boot-vormige karretjies ry op 'n tuimeltrein baan wat draaiende kurwes en steil afdalings toelaat, en neersplons in water seksies wat rustige watervaart toelaat.
+STR_0587    :Na 'n opwindende lug-aangedrewe loods, versnel die trein op teen 'n vertikale baan, oor die bopunt, en vertikaal af teen die ander kant om terug te keer na die stasie.
+STR_0588    :Individuele karretjies ry onder 'n kronkelende baan met haarnaald draaie en skerp afdalings.
 STR_0589    :
-STR_0590    :Riders ride in a submerged submarine through an underwater course
-STR_0591    :Raft-shaped boats gently meander around a river track
+STR_0590    :Besoekers ry in 'n duikboot deur 'n onderwater roete.
+STR_0591    :Vlot-vormige bote druif rustig om 'n rivier baan.
 STR_0592    :
 STR_0593    :
 STR_0594    :
 STR_0595    :
 STR_0596    :
 STR_0597    :
-STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
-STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
+STR_0598    :Omgekeerde tuimeltrein waar treine versnel word vanuit die stasie en op reis teen 'n vertikale spoor, agteruit gaan deur die stasie om teen 'n tweede vertikale spoor op te gaan.
+STR_0599    :'n Kompakte tuimeltrein met individuele karretjies en gladde draaiende afdalings.
+STR_0600    :Aangedrewe myn karretjies wat om 'n gladde en draaiende spoor uitleg stormloop.
 STR_0601    :
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-STR_0603    :Guest {INT32}
-STR_0604    :Guest {INT32}
-STR_0605    :Guest {INT32}
-STR_0606    :Guest {INT32}
-STR_0607    :Guest {INT32}
-STR_0608    :Guest {INT32}
-STR_0609    :Guest {INT32}
-STR_0610    :Guest {INT32}
-STR_0611    :Guest {INT32}
-STR_0612    :Guest {INT32}
-STR_0613    :Guest {INT32}
-STR_0614    :Guest {INT32}
-STR_0615    :Guest {INT32}
-STR_0616    :Guest {INT32}
-STR_0617    :Guest {INT32}
-STR_0618    :Guest {INT32}
-STR_0619    :Guest {INT32}
-STR_0620    :Guest {INT32}
-STR_0621    :Guest {INT32}
-STR_0622    :Guest {INT32}
-STR_0623    :Guest {INT32}
-STR_0624    :Guest {INT32}
-STR_0625    :Guest {INT32}
-STR_0626    :Guest {INT32}
-STR_0627    :Guest {INT32}
-STR_0628    :Guest {INT32}
-STR_0629    :Guest {INT32}
-STR_0630    :Guest {INT32}
-STR_0631    :Guest {INT32}
-STR_0632    :Guest {INT32}
-STR_0633    :Guest {INT32}
-STR_0634    :Guest {INT32}
-STR_0635    :Guest {INT32}
-STR_0636    :Guest {INT32}
-STR_0637    :Guest {INT32}
-STR_0638    :Guest {INT32}
-STR_0639    :Guest {INT32}
-STR_0640    :Guest {INT32}
-STR_0641    :Guest {INT32}
-STR_0642    :Guest {INT32}
-STR_0643    :Guest {INT32}
-STR_0644    :Guest {INT32}
-STR_0645    :Guest {INT32}
-STR_0646    :Guest {INT32}
-STR_0647    :Guest {INT32}
-STR_0648    :Guest {INT32}
-STR_0649    :Guest {INT32}
-STR_0650    :Guest {INT32}
-STR_0651    :Guest {INT32}
-STR_0652    :Guest {INT32}
-STR_0653    :Guest {INT32}
-STR_0654    :Guest {INT32}
-STR_0655    :Guest {INT32}
-STR_0656    :Guest {INT32}
-STR_0657    :Guest {INT32}
-STR_0658    :Guest {INT32}
-STR_0659    :Guest {INT32}
-STR_0660    :Guest {INT32}
-STR_0661    :Guest {INT32}
-STR_0662    :Guest {INT32}
-STR_0663    :Guest {INT32}
-STR_0664    :Guest {INT32}
-STR_0665    :Guest {INT32}
-STR_0666    :Guest {INT32}
-STR_0667    :Guest {INT32}
-STR_0668    :Guest {INT32}
-STR_0669    :Guest {INT32}
-STR_0670    :Guest {INT32}
-STR_0671    :Guest {INT32}
-STR_0672    :Guest {INT32}
-STR_0673    :Guest {INT32}
-STR_0674    :Guest {INT32}
-STR_0675    :Guest {INT32}
-STR_0676    :Guest {INT32}
-STR_0677    :Guest {INT32}
-STR_0678    :Guest {INT32}
-STR_0679    :Guest {INT32}
-STR_0680    :Guest {INT32}
-STR_0681    :Guest {INT32}
-STR_0682    :Guest {INT32}
-STR_0683    :Guest {INT32}
-STR_0684    :Guest {INT32}
-STR_0685    :Guest {INT32}
-STR_0686    :Guest {INT32}
-STR_0687    :Guest {INT32}
-STR_0688    :Guest {INT32}
-STR_0689    :Guest {INT32}
-STR_0690    :Guest {INT32}
-STR_0691    :Guest {INT32}
-STR_0692    :Guest {INT32}
-STR_0693    :Guest {INT32}
-STR_0694    :Guest {INT32}
-STR_0695    :Guest {INT32}
-STR_0696    :Guest {INT32}
-STR_0697    :Guest {INT32}
-STR_0698    :Guest {INT32}
-STR_0699    :Guest {INT32}
-STR_0700    :Guest {INT32}
-STR_0701    :Guest {INT32}
-STR_0702    :Guest {INT32}
-STR_0703    :Guest {INT32}
-STR_0704    :Guest {INT32}
-STR_0705    :Guest {INT32}
-STR_0706    :Guest {INT32}
-STR_0707    :Guest {INT32}
-STR_0708    :Guest {INT32}
-STR_0709    :Guest {INT32}
-STR_0710    :Guest {INT32}
-STR_0711    :Guest {INT32}
-STR_0712    :Guest {INT32}
-STR_0713    :Guest {INT32}
-STR_0714    :Guest {INT32}
-STR_0715    :Guest {INT32}
-STR_0716    :Guest {INT32}
-STR_0717    :Guest {INT32}
-STR_0718    :Guest {INT32}
-STR_0719    :Guest {INT32}
-STR_0720    :Guest {INT32}
-STR_0721    :Guest {INT32}
-STR_0722    :Guest {INT32}
-STR_0723    :Guest {INT32}
-STR_0724    :Guest {INT32}
-STR_0725    :Guest {INT32}
-STR_0726    :Guest {INT32}
-STR_0727    :Guest {INT32}
-STR_0728    :Guest {INT32}
-STR_0729    :Guest {INT32}
-STR_0730    :Guest {INT32}
-STR_0731    :Guest {INT32}
-STR_0732    :Guest {INT32}
-STR_0733    :Guest {INT32}
-STR_0734    :Guest {INT32}
-STR_0735    :Guest {INT32}
-STR_0736    :Guest {INT32}
-STR_0737    :Guest {INT32}
-STR_0738    :Guest {INT32}
-STR_0739    :Guest {INT32}
-STR_0740    :Guest {INT32}
-STR_0741    :Guest {INT32}
-STR_0742    :Guest {INT32}
-STR_0743    :Guest {INT32}
-STR_0744    :Guest {INT32}
-STR_0745    :Guest {INT32}
-STR_0746    :Guest {INT32}
-STR_0747    :Guest {INT32}
-STR_0748    :Guest {INT32}
-STR_0749    :Guest {INT32}
-STR_0750    :Guest {INT32}
-STR_0751    :Guest {INT32}
-STR_0752    :Guest {INT32}
-STR_0753    :Guest {INT32}
-STR_0754    :Guest {INT32}
-STR_0755    :Guest {INT32}
-STR_0756    :Guest {INT32}
-STR_0757    :Guest {INT32}
-STR_0758    :Guest {INT32}
-STR_0759    :Guest {INT32}
-STR_0760    :Guest {INT32}
-STR_0761    :Guest {INT32}
-STR_0762    :Guest {INT32}
-STR_0763    :Guest {INT32}
-STR_0764    :Guest {INT32}
-STR_0765    :Guest {INT32}
-STR_0766    :Guest {INT32}
-STR_0767    :Guest {INT32}
+STR_0602    :Tuimeltrein treine word vernsnel vanuit die stasie deur lineêre induksie motors om deur draaiende omkerings te snel.
+STR_0603    :Besoeker {INT32}
+STR_0604    :Besoeker {INT32}
+STR_0605    :Besoeker {INT32}
+STR_0606    :Besoeker {INT32}
+STR_0607    :Besoeker {INT32}
+STR_0608    :Besoeker {INT32}
+STR_0609    :Besoeker {INT32}
+STR_0610    :Besoeker {INT32}
+STR_0611    :Besoeker {INT32}
+STR_0612    :Besoeker {INT32}
+STR_0613    :Besoeker {INT32}
+STR_0614    :Besoeker {INT32}
+STR_0615    :Besoeker {INT32}
+STR_0616    :Besoeker {INT32}
+STR_0617    :Besoeker {INT32}
+STR_0618    :Besoeker {INT32}
+STR_0619    :Besoeker {INT32}
+STR_0620    :Besoeker {INT32}
+STR_0621    :Besoeker {INT32}
+STR_0622    :Besoeker {INT32}
+STR_0623    :Besoeker {INT32}
+STR_0624    :Besoeker {INT32}
+STR_0625    :Besoeker {INT32}
+STR_0626    :Besoeker {INT32}
+STR_0627    :Besoeker {INT32}
+STR_0628    :Besoeker {INT32}
+STR_0629    :Besoeker {INT32}
+STR_0630    :Besoeker {INT32}
+STR_0631    :Besoeker {INT32}
+STR_0632    :Besoeker {INT32}
+STR_0633    :Besoeker {INT32}
+STR_0634    :Besoeker {INT32}
+STR_0635    :Besoeker {INT32}
+STR_0636    :Besoeker {INT32}
+STR_0637    :Besoeker {INT32}
+STR_0638    :Besoeker {INT32}
+STR_0639    :Besoeker {INT32}
+STR_0640    :Besoeker {INT32}
+STR_0641    :Besoeker {INT32}
+STR_0642    :Besoeker {INT32}
+STR_0643    :Besoeker {INT32}
+STR_0644    :Besoeker {INT32}
+STR_0645    :Besoeker {INT32}
+STR_0646    :Besoeker {INT32}
+STR_0647    :Besoeker {INT32}
+STR_0648    :Besoeker {INT32}
+STR_0649    :Besoeker {INT32}
+STR_0650    :Besoeker {INT32}
+STR_0651    :Besoeker {INT32}
+STR_0652    :Besoeker {INT32}
+STR_0653    :Besoeker {INT32}
+STR_0654    :Besoeker {INT32}
+STR_0655    :Besoeker {INT32}
+STR_0656    :Besoeker {INT32}
+STR_0657    :Besoeker {INT32}
+STR_0658    :Besoeker {INT32}
+STR_0659    :Besoeker {INT32}
+STR_0660    :Besoeker {INT32}
+STR_0661    :Besoeker {INT32}
+STR_0662    :Besoeker {INT32}
+STR_0663    :Besoeker {INT32}
+STR_0664    :Besoeker {INT32}
+STR_0665    :Besoeker {INT32}
+STR_0666    :Besoeker {INT32}
+STR_0667    :Besoeker {INT32}
+STR_0668    :Besoeker {INT32}
+STR_0669    :Besoeker {INT32}
+STR_0670    :Besoeker {INT32}
+STR_0671    :Besoeker {INT32}
+STR_0672    :Besoeker {INT32}
+STR_0673    :Besoeker {INT32}
+STR_0674    :Besoeker {INT32}
+STR_0675    :Besoeker {INT32}
+STR_0676    :Besoeker {INT32}
+STR_0677    :Besoeker {INT32}
+STR_0678    :Besoeker {INT32}
+STR_0679    :Besoeker {INT32}
+STR_0680    :Besoeker {INT32}
+STR_0681    :Besoeker {INT32}
+STR_0682    :Besoeker {INT32}
+STR_0683    :Besoeker {INT32}
+STR_0684    :Besoeker {INT32}
+STR_0685    :Besoeker {INT32}
+STR_0686    :Besoeker {INT32}
+STR_0687    :Besoeker {INT32}
+STR_0688    :Besoeker {INT32}
+STR_0689    :Besoeker {INT32}
+STR_0690    :Besoeker {INT32}
+STR_0691    :Besoeker {INT32}
+STR_0692    :Besoeker {INT32}
+STR_0693    :Besoeker {INT32}
+STR_0694    :Besoeker {INT32}
+STR_0695    :Besoeker {INT32}
+STR_0696    :Besoeker {INT32}
+STR_0697    :Besoeker {INT32}
+STR_0698    :Besoeker {INT32}
+STR_0699    :Besoeker {INT32}
+STR_0700    :Besoeker {INT32}
+STR_0701    :Besoeker {INT32}
+STR_0702    :Besoeker {INT32}
+STR_0703    :Besoeker {INT32}
+STR_0704    :Besoeker {INT32}
+STR_0705    :Besoeker {INT32}
+STR_0706    :Besoeker {INT32}
+STR_0707    :Besoeker {INT32}
+STR_0708    :Besoeker {INT32}
+STR_0709    :Besoeker {INT32}
+STR_0710    :Besoeker {INT32}
+STR_0711    :Besoeker {INT32}
+STR_0712    :Besoeker {INT32}
+STR_0713    :Besoeker {INT32}
+STR_0714    :Besoeker {INT32}
+STR_0715    :Besoeker {INT32}
+STR_0716    :Besoeker {INT32}
+STR_0717    :Besoeker {INT32}
+STR_0718    :Besoeker {INT32}
+STR_0719    :Besoeker {INT32}
+STR_0720    :Besoeker {INT32}
+STR_0721    :Besoeker {INT32}
+STR_0722    :Besoeker {INT32}
+STR_0723    :Besoeker {INT32}
+STR_0724    :Besoeker {INT32}
+STR_0725    :Besoeker {INT32}
+STR_0726    :Besoeker {INT32}
+STR_0727    :Besoeker {INT32}
+STR_0728    :Besoeker {INT32}
+STR_0729    :Besoeker {INT32}
+STR_0730    :Besoeker {INT32}
+STR_0731    :Besoeker {INT32}
+STR_0732    :Besoeker {INT32}
+STR_0733    :Besoeker {INT32}
+STR_0734    :Besoeker {INT32}
+STR_0735    :Besoeker {INT32}
+STR_0736    :Besoeker {INT32}
+STR_0737    :Besoeker {INT32}
+STR_0738    :Besoeker {INT32}
+STR_0739    :Besoeker {INT32}
+STR_0740    :Besoeker {INT32}
+STR_0741    :Besoeker {INT32}
+STR_0742    :Besoeker {INT32}
+STR_0743    :Besoeker {INT32}
+STR_0744    :Besoeker {INT32}
+STR_0745    :Besoeker {INT32}
+STR_0746    :Besoeker {INT32}
+STR_0747    :Besoeker {INT32}
+STR_0748    :Besoeker {INT32}
+STR_0749    :Besoeker {INT32}
+STR_0750    :Besoeker {INT32}
+STR_0751    :Besoeker {INT32}
+STR_0752    :Besoeker {INT32}
+STR_0753    :Besoeker {INT32}
+STR_0754    :Besoeker {INT32}
+STR_0755    :Besoeker {INT32}
+STR_0756    :Besoeker {INT32}
+STR_0757    :Besoeker {INT32}
+STR_0758    :Besoeker {INT32}
+STR_0759    :Besoeker {INT32}
+STR_0760    :Besoeker {INT32}
+STR_0761    :Besoeker {INT32}
+STR_0762    :Besoeker {INT32}
+STR_0763    :Besoeker {INT32}
+STR_0764    :Besoeker {INT32}
+STR_0765    :Besoeker {INT32}
+STR_0766    :Besoeker {INT32}
+STR_0767    :Besoeker {INT32}
 STR_0768    :Handyman {INT32}
-STR_0769    :Mechanic {INT32}
-STR_0770    :Security Guard {INT32}
-STR_0771    :Entertainer {INT32}
-STR_0772    :Unnamed park{POP16}{POP16}
-STR_0773    :Unnamed park{POP16}{POP16}
-STR_0774    :Unnamed park{POP16}{POP16}
-STR_0775    :Unnamed park{POP16}{POP16}
-STR_0776    :Unnamed park{POP16}{POP16}
-STR_0777    :Unnamed park{POP16}{POP16}
-STR_0778    :Sign
-STR_0779    :1st
-STR_0780    :2nd
-STR_0781    :3rd
-STR_0782    :4th
-STR_0783    :5th
-STR_0784    :6th
-STR_0785    :7th
-STR_0786    :8th
-STR_0787    :9th
-STR_0788    :10th
-STR_0789    :11th
-STR_0790    :12th
-STR_0791    :13th
-STR_0792    :14th
-STR_0793    :15th
-STR_0794    :16th
-STR_0795    :17th
-STR_0796    :18th
-STR_0797    :19th
-STR_0798    :20th
-STR_0799    :21st
-STR_0800    :22nd
-STR_0801    :23rd
-STR_0802    :24th
-STR_0803    :25th
-STR_0804    :26th
-STR_0805    :27th
-STR_0806    :28th
-STR_0807    :29th
-STR_0808    :30th
-STR_0809    :31st
+STR_0769    :Werktuigkundige {INT32}
+STR_0770    :Sekuriteitswag {INT32}
+STR_0771    :Verhoogkunstenaar {INT32}
+STR_0772    :Naamlose park{POP16}{POP16}
+STR_0773    :Naamlose park{POP16}{POP16}
+STR_0774    :Naamlose park{POP16}{POP16}
+STR_0775    :Naamlose park{POP16}{POP16}
+STR_0776    :Naamlose park{POP16}{POP16}
+STR_0777    :Naamlose park{POP16}{POP16}
+STR_0778    :Teken
+STR_0779    :1ste
+STR_0780    :2de
+STR_0781    :3de
+STR_0782    :4de
+STR_0783    :5de
+STR_0784    :6de
+STR_0785    :7de
+STR_0786    :8ste
+STR_0787    :9de
+STR_0788    :10de
+STR_0789    :11de
+STR_0790    :12de
+STR_0791    :13de
+STR_0792    :14de
+STR_0793    :15de
+STR_0794    :16de
+STR_0795    :17de
+STR_0796    :18de
+STR_0797    :19de
+STR_0798    :20ste
+STR_0799    :21ste
+STR_0800    :22ste
+STR_0801    :23ste
+STR_0802    :24ste
+STR_0803    :25ste
+STR_0804    :26ste
+STR_0805    :27ste
+STR_0806    :28ste
+STR_0807    :29ste
+STR_0808    :30ste
+STR_0809    :31ste
 STR_0810    :Jan
 STR_0811    :Feb
-STR_0812    :Mar
+STR_0812    :Maa
 STR_0813    :Apr
-STR_0814    :May
+STR_0814    :Mei
 STR_0815    :Jun
 STR_0816    :Jul
 STR_0817    :Aug
 STR_0818    :Sep
-STR_0819    :Oct
+STR_0819    :Okt
 STR_0820    :Nov
-STR_0821    :Dec
-STR_0822    :Unable to access graphic data file
-STR_0823    :Missing or inaccessible data file
+STR_0821    :Des
+STR_0822    :Nie in staat om toegang tot grafiese data lêer te kry nie
+STR_0823    :Verlore of ontoeganglike data lêer
 STR_0824    :{BLACK}{CROSS}
-STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :{SMALLFONT}{BLACK}Close window
-STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
-STR_0830    :{SMALLFONT}{BLACK}Zoom view in
-STR_0831    :{SMALLFONT}{BLACK}Zoom view out
-STR_0832    :{SMALLFONT}{BLACK}Rotate view 90{DEGREE} clockwise
-STR_0833    :{SMALLFONT}{BLACK}Pause game
-STR_0834    :{SMALLFONT}{BLACK}Disk and game options
-STR_0835    :Game initialization failed
-STR_0836    :Unable to start game in a minimized state
-STR_0837    :Unable to initialize graphics system
+STR_0825    :Verkiese naam klaar in gebruik
+STR_0826    :Te veel name gedefinieer
+STR_0827    :Nie genoeg kontant - benodig {CURRENCY2DP}
+STR_0828    :{SMALLFONT}{BLACK}Maak venster toe
+STR_0829    :{SMALLFONT}{BLACK}Venster titel - Sleep hier om venster te skuif
+STR_0830    :{SMALLFONT}{BLACK}Zoom uitsig in
+STR_0831    :{SMALLFONT}{BLACK}Zoom uitsig uit
+STR_0832    :{SMALLFONT}{BLACK}Roteer uitsig 90{DEGREE} kloksgewys
+STR_0833    :{SMALLFONT}{BLACK}Breek spel
+STR_0834    :{SMALLFONT}{BLACK}Skyf en spel opsies
+STR_0835    :Spel initialisering het misluk
+STR_0836    :Nie in staat om spel in 'n geminimaliseerde staat te begin nie
+STR_0837    :Nie in staat om grafiese stelsel te initialiseer nie
 STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -849,16 +850,16 @@ STR_0843    :<not used anymore>
 STR_0844    :<not used anymore>
 STR_0845    :<not used anymore>
 STR_0846    :<not used anymore>
-STR_0847    :About 'OpenRCT2'
+STR_0847    :Oor 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
-STR_0849    :{WINDOW_COLOUR_2}Version 2.01.028
-STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
+STR_0849    :{WINDOW_COLOUR_2}Weergawe 2.01.028
+STR_0850    :{WINDOW_COLOUR_2}Kopiereg {COPYRIGHT} 2002 Chris Sawyer, alle regte voorbehou
+STR_0851    :{WINDOW_COLOUR_2}Ontwerp en programmering deur Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafika deur Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Klank en musiek deur Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Additionele klanke opgeneem deur David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Verteenwoordiging deur Jacqui Lyons by Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}Dankie aan:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
 STR_0858    :{WINDOW_COLOUR_2}
 STR_0859    :{WINDOW_COLOUR_2}
@@ -879,85 +880,86 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-STR_0877    :Too low !
-STR_0878    :Too high !
-STR_0879    :Can't lower land here...
-STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
-STR_0882    :Load Game
-STR_0883    :Save Game
-STR_0884    :Load Landscape
-STR_0885    :Save Landscape
-STR_0886    :Quit Game
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Roller Coaster Designer
-STR_0889    :Quit Track Designs Manager
+STR_0877    :Te laag !
+STR_0878    :Te hoog !
+STR_0879    :Kan nie land hier laat sak nie...
+STR_0880    :Kan nie land hier verhoog nie...
+STR_0881    :Voorwerp in die pad
+STR_0882    :Laai Spel
+STR_0883    :Stoor Spel
+STR_0884    :Laai Landskap
+STR_0885    :Stoor Landskap
+STR_0886    :Verlaat Spel
+STR_0887    :Verlaat Scenario Ontwerper
+STR_0888    :Verlaat Roller Coaster Ontwerper
+STR_0889    :Verlaat Spoor Ontwerp Organiseerder
 STR_0890    :SCR{COMMA16}.BMP
 STR_0891    :Screenshot
-STR_0892    :Screenshot saved to disk as '{STRINGID}'
+STR_0892    :Screenshot na skyf gestoor as '{STRINGID}'
 STR_0893    :Screenshot failed !
-STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
-STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
-STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
-STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
-STR_0901    :{SMALLFONT}{BLACK}Right-hand curve (small radius)
-STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
-STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
-STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
-STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
-STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
-STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
-STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
-STR_0912    :{SMALLFONT}{BLACK}No roll
-STR_0913    :{SMALLFONT}{BLACK}Move to previous section
-STR_0914    :{SMALLFONT}{BLACK}Move to next section
-STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
-STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
-STR_0918    :{SMALLFONT}{BLACK}Steep slope down
-STR_0919    :{SMALLFONT}{BLACK}Slope down
-STR_0920    :{SMALLFONT}{BLACK}Level
-STR_0921    :{SMALLFONT}{BLACK}Slope up
-STR_0922    :{SMALLFONT}{BLACK}Steep slope up
-STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' Bend (left)
-STR_0930    :'S' Bend (right)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
-STR_0934    :Ride entrance in the way
-STR_0935    :Ride exit in the way
-STR_0936    :Park entrance in the way
-STR_0937    :{SMALLFONT}{BLACK}View options
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Remove Base Land
-STR_0941    :Remove Vertical Faces
-STR_0942    :See-Through Rides
-STR_0943    :See-Through Scenery
-STR_0944    :Save
-STR_0945    :Don't Save
-STR_0946    :Cancel
-STR_0947    :Save this before loading ?
-STR_0948    :Save this before quitting ?
-STR_0949    :Save this before quitting ?
-STR_0950    :Load Game
-STR_0951    :Quit Game
-STR_0952    :Quit Game
-STR_0953    :Load Landscape
+STR_0893    :Screenshot het misluk !
+STR_0894    :Landskap data area vol !
+STR_0895    :Kan nie gedeeltelik bo grond en gedeeltelik onder grond bou nie
+STR_0896    :{POP16}{POP16}{STRINGID} Konstruksie
+STR_0897    :Direksie
+STR_0898    :{SMALLFONT}{BLACK}Linker-hand kurwe
+STR_0899    :{SMALLFONT}{BLACK}Regter-hand kurwe
+STR_0900    :{SMALLFONT}{BLACK}Linker-hand kurwe (klein radius)
+STR_0901    :{SMALLFONT}{BLACK}Regter-hand kurwe (klein radius)
+STR_0902    :{SMALLFONT}{BLACK}Linker-hand kurwe (baie klein radius)
+STR_0903    :{SMALLFONT}{BLACK}Regter-hand kurwe (baie klein radius)
+STR_0904    :{SMALLFONT}{BLACK}Linker-hand kurwe (groot radius)
+STR_0905    :{SMALLFONT}{BLACK}Regter-hand kurwe (groot radius)
+STR_0906    :{SMALLFONT}{BLACK}Reguit
+STR_0907    :Helling
+STR_0908    :Rol/Banking
+STR_0909    :Stoel Rot.
+STR_0910    :{SMALLFONT}{BLACK}Rol vir linker-hand kurwe
+STR_0911    :{SMALLFONT}{BLACK}Rol vir regter-hand kurwe
+STR_0912    :{SMALLFONT}{BLACK}Geen rol
+STR_0913    :{SMALLFONT}{BLACK}Gaan na vorige gedeelte
+STR_0914    :{SMALLFONT}{BLACK}Gaan na volgende gedeelte
+STR_0915    :{SMALLFONT}{BLACK}Bou die geselekteerde gedeelte
+STR_0916    :{SMALLFONT}{BLACK}Verwyder die uitgeligte gedeelte
+STR_0917    :{SMALLFONT}{BLACK}Vertikale afdaling
+STR_0918    :{SMALLFONT}{BLACK}Steil afwaartse helling
+STR_0919    :{SMALLFONT}{BLACK}Afwaartse helling
+STR_0920    :{SMALLFONT}{BLACK}Vlak
+STR_0921    :{SMALLFONT}{BLACK}Opwaartse helling
+STR_0922    :{SMALLFONT}{BLACK}Steil opwaartse helling
+STR_0923    :{SMALLFONT}{BLACK}Vertikale styging
+STR_0924    :{SMALLFONT}{BLACK}Spiraal na onder
+STR_0925    :{SMALLFONT}{BLACK}Spiraal opwaarts
+STR_0926    :Kan dit nie verwyder...
+STR_0927    :Kan dit nie hier bou nie...
+STR_0928    :{SMALLFONT}{BLACK}Ketting lift, om karretjies teen hellings op te sleep
+STR_0929    :'S' Buig (links)
+STR_0930    :'S' Buig (regs)
+STR_0931    :Vertikale Lus (links)
+STR_0932    :Vertikale Lus (regs)
+STR_0933    :Verhoog of verlaag land eers
+STR_0934    :Rit ingang in die pad
+STR_0935    :Rit uitgang in die pad
+STR_0936    :Park ingang in die pad
+STR_0937    :{SMALLFONT}{BLACK}Wys opsies
+STR_0938    :{SMALLFONT}{BLACK}Stel land hoogte en helling
+STR_0939    :Ondergrond/Binne Uitsig
+STR_0940    :Verwyder Basis Land
+STR_0941    :Verwyder Vertikale Gesigte
+STR_0942    :Sien-Deur Ritte
+STR_0943    :Sien-Deur Natuurskoon
+STR_0944    :Stoor
+STR_0945    :Moet nie Stoor nie
+STR_0946    :Kanseleer
+STR_0947    :Stoor dié voor laai ?
+STR_0948    :Stoor dié voor verlating ?
+STR_0949    :Stoor dié voor verlating ?
+STR_0950    :Laai Spel
+STR_0951    :Verlaat Spel
+STR_0952    :Verlaat Spel
+STR_0953    :Laai Landskap
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}Selekteer stoel rotasie hoek vir hierdie spoor gedeelte
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -974,193 +976,193 @@ STR_0968    :+360{DEGREE}
 STR_0969    :+405{DEGREE}
 STR_0970    :+450{DEGREE}
 STR_0971    :+495{DEGREE}
-STR_0972    :Cancel
+STR_0972    :Kanseleer
 STR_0973    :OK
-STR_0974    :Rides
-STR_0975    :Shops and Stalls
-STR_0976    :Restrooms and Information Kiosks
-STR_0977    :New Transport Rides
-STR_0978    :New Gentle Rides
-STR_0979    :New Roller Coasters
-STR_0980    :New Thrill Rides
-STR_0981    :New Water Rides
-STR_0982    :New Shops & Stalls
-STR_0983    :Research & Development
+STR_0974    :Ritte
+STR_0975    :Winkels en Stalletjies
+STR_0976    :Toilette en Informasie Kiosks
+STR_0977    :Nuwe Vervoer Ritte
+STR_0978    :Nuwe Rustige Ritte
+STR_0979    :Nuwe Tuimeltreine
+STR_0980    :Nuwe Opwindende Ritte
+STR_0981    :Nuwe Water Ritte
+STR_0982    :Nuwe Winkels & Stalletjies
+STR_0983    :Navorsing & Ontwikkeling
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Too many rides/attractions
-STR_0988    :Can't create new ride/attraction...
+STR_0987    :Te veel ritte/aantreklikhede
+STR_0988    :Kan nie nuwe rit/aantreklikheid skep nie...
 STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
-STR_0991    :Station platform
-STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
-STR_0993    :Demolish ride/attraction
-STR_0994    :Demolish
-STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
-STR_0996    :Overall view
-STR_0997    :{SMALLFONT}{BLACK}View selection
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
-STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    :Can't test {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
-STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
-STR_1006    :Must be closed first
-STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
-STR_1011    :Close all
-STR_1012    :Open all
-STR_1013    :Close park
-STR_1014    :Open park
-STR_1015    :Unable to operate with more than one station platform in this mode
-STR_1016    :Unable to operate with less than two stations in this mode
-STR_1017    :Can't change operating mode...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_0990    :{SMALLFONT}{BLACK}Konstruksie
+STR_0991    :Stasie platform
+STR_0992    :{SMALLFONT}{BLACK}Skrap hele rit/aantreklikheid
+STR_0993    :Skrap rit/aantreklikheid
+STR_0994    :Skrap
+STR_0995    :{WINDOW_COLOUR_1}Is jy seker jy wil {STRINGID} heeltemal skrap?
+STR_0996    :Algehele uitsig
+STR_0997    :{SMALLFONT}{BLACK}Wys seleksie
+STR_0998    :Geen meer stasies toegelaat op hierdie rit nie
+STR_0999    :Benodig 'n stasie platform
+STR_1000    :Baan vorm die geslote kring nie
+STR_1001    :Baan ongeskik vir hierdie tipe trein
+STR_1002    :Kan nie {POP16}{POP16}{POP16}{STRINGID} oopmaak nie...
+STR_1003    :Kan nie {POP16}{POP16}{POP16}{STRINGID} toets nie...
+STR_1004    :Kan nie {POP16}{POP16}{POP16}{STRINGID} toemaak nie...
+STR_1005    :Kan nie konstruksie op {POP16}{POP16}{POP16}{STRINGID} begin nie...
+STR_1006    :Moet eers toegemaak word
+STR_1007    :Nie in staat om genoeg voertuie te skep nie
+STR_1008    :{SMALLFONT}{BLACK}Maak oop, toe, of toets rit/aantreklikheid
+STR_1009    :{SMALLFONT}{BLACK}Maak alle ritte/aantreklikhede oop of toe
+STR_1010    :{SMALLFONT}{BLACK}Maak park oop of toe
+STR_1011    :Maak alles toe
+STR_1012    :Maak alles oop
+STR_1013    :Maak park toe
+STR_1014    :Maak park oop
+STR_1015    :Nie in staat om met meer as een stasie te opereer in hierdie manier
+STR_1016    :Nie in staat om met minder as twee stasies te opereer in hierdie manier
+STR_1017    :Kan nie manier van operasie verander nie...
+STR_1018    :Kan nie aanpassings maak nie...
+STR_1019    :Kan nie aanpassings maak nie...
+STR_1020    :Kan nie aanpassings maak nie...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
-STR_1024    :{COMMA16} car per train
-STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
-STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
-STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
-STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
-STR_1043    :OpenRCT2 Saved Game
-STR_1044    :OpenRCT2 Scenario File
-STR_1045    :OpenRCT2 Landscape File
-STR_1046    :OpenRCT2 Track Design File
-STR_1047    :Game save failed!
-STR_1048    :Scenario save failed!
-STR_1049    :Landscape save failed!
-STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
-STR_1051    :Invisible Supports
-STR_1052    :Invisible People
-STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
-STR_1055    :{SMALLFONT}{BLACK}Name person
-STR_1056    :{SMALLFONT}{BLACK}Name staff member
-STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
-STR_1061    :Normal mode
-STR_1062    :Continuous circuit mode
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
-STR_1066    :Boat hire mode
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Station to station mode
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
-STR_1073    :Race mode
-STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
-STR_1076    :Shop stall mode
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
-STR_1080    :Film: {ENDQUOTES}Avenging aviators{ENDQUOTES}
-STR_1081    :3D film: {ENDQUOTES}Mouse tails{ENDQUOTES}
-STR_1082    :Space rings mode
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} kar per trein
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} karre per trein
+STR_1024    :{COMMA16} kar per trein
+STR_1025    :{COMMA16} karre per trein
+STR_1026    :Stasie platform is te lank!
+STR_1027    :{SMALLFONT}{BLACK}Vind dié op Hoof Uitsig
+STR_1028    :Af van kant van kaart af!
+STR_1029    :Kan nie gedeeltelik bo en gedeeltelik onder water bou nie!
+STR_1030    :Kan net dié onderwater bou!
+STR_1031    :Kan nie dié onderwater bou nie!
+STR_1032    :Kan net dié op water bou!
+STR_1033    :Kan net dié bo grond bou!
+STR_1034    :Kan net dié op land bou!
+STR_1035    :Plaaslike gesag sal nie konstruksie bo boom-hoogte toelaat nie!
+STR_1036    :Laai Spel
+STR_1037    :Laai Landskap
+STR_1038    :Omskep gestoorde spel na scenario
+STR_1039    :Installeer nuwe spoor uitleg
+STR_1040    :Stoor Spel
+STR_1041    :Stoor Scenario
+STR_1042    :Stoor Landskap
+STR_1043    :OpenRCT2 Gestoorde Spel
+STR_1044    :OpenRCT2 Scenario Lêer
+STR_1045    :OpenRCT2 Landskap Lêer
+STR_1046    :OpenRCT2 Spoor Ontwerp Lêer
+STR_1047    :Stoor van spel het misluk!
+STR_1048    :Stoor van scenario het misluk!
+STR_1049    :Stoor van landskap het misluk!
+STR_1050    :Laai het misluk...{NEWLINE}Lêer bevat ongeldige data!
+STR_1051    :Onsigbare Ondersteuning
+STR_1052    :Onsigbare Mense
+STR_1053    :{SMALLFONT}{BLACK}Ritte/aantreklikhede in park
+STR_1054    :{SMALLFONT}{BLACK}Benoem rit/aantreklikheid
+STR_1055    :{SMALLFONT}{BLACK}Benoem persoon
+STR_1056    :{SMALLFONT}{BLACK}Benoem personeel lid
+STR_1057    :Rit/aantreklikheid naam
+STR_1058    :Gee nuwe naam vir hierdie rit/aantreklikheid:
+STR_1059    :Kan nie rit/aantreklikheid herbenoem nie...
+STR_1060    :Ongeldige rit/aantreklikheid naam
+STR_1061    :Normale mode
+STR_1062    :Aanhoudende geslote baan mode
+STR_1063    :Omgekeerde-helling geloodse vaartuig mode
+STR_1064    :Aangedrewe loods (verbygaande stasie)
+STR_1065    :Vaartuig mode
+STR_1066    :Boot huur mode
+STR_1067    :Opwaartse loods
+STR_1068    :Roterende opstyg mode
+STR_1069    :Stasie na stasie mode
+STR_1070    :Enkele rit per toelating
+STR_1071    :Onbeperkte ritte per toelating
+STR_1072    :Doolhof mode
+STR_1073    :Resies mode
+STR_1074    :Buffer-kar mode
+STR_1075    :Swaai mode
+STR_1076    :Winkel stalletjie mode
+STR_1077    :Roteer mode
+STR_1078    :Voorwaartse rotering
+STR_1079    :Terugwaartse rotering
+STR_1080    :Rolprent: {ENDQUOTES}Avenging aviators{ENDQUOTES}
+STR_1081    :3D rolprent: {ENDQUOTES}Mouse tails{ENDQUOTES}
+STR_1082    :Ruimte ringe mode
 STR_1083    :Beginners mode
-STR_1084    :LIM-powered launch
-STR_1085    :Film: {ENDQUOTES}Thrill riders{ENDQUOTES}
-STR_1086    :3D film: {ENDQUOTES}Storm chasers{ENDQUOTES}
-STR_1087    :3D film: {ENDQUOTES}Space raiders{ENDQUOTES}
-STR_1088    :Intense mode
+STR_1084    :LIM-aangedrewe loods
+STR_1085    :Rolprent: {ENDQUOTES}Thrill riders{ENDQUOTES}
+STR_1086    :3D rolprent: {ENDQUOTES}Storm chasers{ENDQUOTES}
+STR_1087    :3D rolprent: {ENDQUOTES}Space raiders{ENDQUOTES}
+STR_1088    :Intens mode
 STR_1089    :Berserk mode
-STR_1090    :Haunted house mode
-STR_1091    :Circus show mode
-STR_1092    :Downward launch
-STR_1093    :Crooked house mode
-STR_1094    :Freefall drop mode
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
-STR_1100    :Waiting to depart {POP16}{STRINGID}
-STR_1101    :Departing {POP16}{STRINGID}
-STR_1102    :Traveling at {VELOCITY}
-STR_1103    :Arriving at {POP16}{STRINGID}
-STR_1104    :Unloading passengers at {POP16}{STRINGID}
-STR_1105    :Traveling at {VELOCITY}
-STR_1106    :Crashing!
-STR_1107    :Crashed!
-STR_1108    :Traveling at {VELOCITY}
-STR_1109    :Swinging
-STR_1110    :Rotating
-STR_1111    :Rotating
-STR_1112    :Operating
-STR_1113    :Showing film
-STR_1114    :Rotating
-STR_1115    :Operating
-STR_1116    :Operating
-STR_1117    :Doing circus show
-STR_1118    :Operating
-STR_1119    :Waiting for cable lift
-STR_1120    :Traveling at {VELOCITY}
-STR_1121    :Stopping
-STR_1122    :Waiting for passengers
-STR_1123    :Waiting to start
-STR_1124    :Starting
-STR_1125    :Operating
-STR_1126    :Stopping
-STR_1127    :Unloading passengers
-STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colors
-STR_1130    :Different colors per {STRINGID}
-STR_1131    :Different colors per vehicle
-STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vehicle {POP16}{COMMA16}
+STR_1090    :Spookhuis mode
+STR_1091    :Sirkus opvoering mode
+STR_1092    :Afwaartse loods
+STR_1093    :Krom huis mode
+STR_1094    :Vryval afdaling mode
+STR_1095    :Aanhoudende baan blok gedeelte mode
+STR_1096    :Aangedrewe loods (sonder verbygaande stasie)
+STR_1097    :Aangedrewe loods blok gedeelte mode
+STR_1098    :Skuif na einde van {POP16}{STRINGID}
+STR_1099    :Besig om vir passassiers te wag by {POP16}{STRINGID}
+STR_1100    :Besig om te wag om te vertrek vanag {POP16}{STRINGID}
+STR_1101    :Besig om te vertrek vanag {POP16}{STRINGID}
+STR_1102    :Besig om te reis teen {VELOCITY}
+STR_1103    :Besig om te arriveer by {POP16}{STRINGID}
+STR_1104    :Besig om passassiers af te laai by {POP16}{STRINGID}
+STR_1105    :Besig om te reis teen {VELOCITY}
+STR_1106    :Besig om te bots!
+STR_1107    :Het gebots!
+STR_1108    :Besig om te reis teen {VELOCITY}
+STR_1109    :Swaai
+STR_1110    :Roteer
+STR_1111    :Roteer
+STR_1112    :Opereer
+STR_1113    :Wys rolprent
+STR_1114    :Roteer
+STR_1115    :Opereer
+STR_1116    :Opereer
+STR_1117    :Doen sirkus vertoning
+STR_1118    :Opereer
+STR_1119    :Besig om te wag vir kabel hysbak
+STR_1120    :Besig om te reis teen {VELOCITY}
+STR_1121    :Besig om te stop
+STR_1122    :Besig om vir passassiers te wag
+STR_1123    :Besig om te wag om te begin
+STR_1124    :Besig om te begin
+STR_1125    :Opereer
+STR_1126    :Besig om te stop
+STR_1127    :Besig om passassiers af te laai
+STR_1128    :Gestop deur blok brieke
+STR_1129    :Alle voertuie in die selfde kleure
+STR_1130    :Verskillende kleure per {STRINGID}
+STR_1131    :Verskillende kleure per voertuig
+STR_1132    :Voertuig {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :Voertuig {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main color
-STR_1137    :{SMALLFONT}{BLACK}Select additional color 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional color 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure color
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle color scheme option
-STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
+STR_1136    :{SMALLFONT}{BLACK}Selekteer hoof kleur
+STR_1137    :{SMALLFONT}{BLACK}Selekteer additionele kleur 1
+STR_1138    :{SMALLFONT}{BLACK}Selekteer additionele kleur 2
+STR_1139    :{SMALLFONT}{BLACK}Selekteer stut struktuur kleur
+STR_1140    :{SMALLFONT}{BLACK}Selekteer voertuig kleur skema opsie
+STR_1141    :{SMALLFONT}{BLACK}Selekteer watter voertuig/trein om aan te pas
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1144    :Can't build/move entrance for this ride/attraction...
-STR_1145    :Can't build/move exit for this ride/attraction...
-STR_1146    :Entrance not yet built
-STR_1147    :Exit not yet built
-STR_1148    :Quarter load
-STR_1149    :Half load
-STR_1150    :Three-quarter load
-STR_1151    :Full load
-STR_1152    :Any load
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1144    :Kan nie die ingang bou/skuif vir hierdie rit/aantreklikheid nie...
+STR_1145    :Kan nie die uitgang bou/skuif vir hierdie rit/aantreklikheid nie...
+STR_1146    :Ingang is nog nie gebou nie
+STR_1147    :Uitgang is nog nie gebou nie
+STR_1148    :Kwart vrag
+STR_1149    :Halwe vrag
+STR_1150    :Drie-kwart vrag
+STR_1151    :Volle vrag
+STR_1152    :Enige vrag
+STR_1153    :Hoogte Merke op Rit Bane
+STR_1154    :Hoogte Merke op Land
+STR_1155    :Hoogte Merke op Paaie
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1158    :Can't remove this...
+STR_1158    :Kan nie dié verwyder nie...
 STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
 STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
 STR_1161    :Can't position this here...
@@ -1173,8 +1175,8 @@ STR_1167    :Can't raise water level here...
 STR_1168    :Options
 STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed - - 
-STR_1172    :{YELLOW}{STRINGID} - - 
+STR_1171    :{RED}Closed - -
+STR_1172    :{YELLOW}{STRINGID} - -
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
 STR_1175    :Can't build this on sloped footpath
@@ -1217,8 +1219,8 @@ STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
 STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
 STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
 STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronize with adjacent stations
-STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronize departure with all adjacent stations (for 'racing')
+STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
+STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
 STR_1217    :{COMMA16} seconds
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
@@ -1345,10 +1347,10 @@ STR_1339    :{BLACK}No test results yet...
 STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} / 
+STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} / 
+STR_1346    :{LENGTH} /
 STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
@@ -1398,7 +1400,7 @@ STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
 STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
 STR_1394    :{SMALLFONT}{BLACK}Operating options
 STR_1395    :{SMALLFONT}{BLACK}Maintenance options
-STR_1396    :{SMALLFONT}{BLACK}Color scheme options
+STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
@@ -1527,9 +1529,9 @@ STR_1521    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really
 STR_1522    :{SMALLFONT}{OPENQUOTES}This umbrella from {STRINGID} is really good value{ENDQUOTES}
 STR_1523    :{SMALLFONT}{OPENQUOTES}This drink from {STRINGID} is really good value{ENDQUOTES}
 STR_1524    :{SMALLFONT}{OPENQUOTES}This burger from {STRINGID} is really good value{ENDQUOTES}
-STR_1525    :{SMALLFONT}{OPENQUOTES}These fries from {STRINGID} are really good value{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}These chips from {STRINGID} are really good value{ENDQUOTES}
 STR_1526    :{SMALLFONT}{OPENQUOTES}This ice cream from {STRINGID} is really good value{ENDQUOTES}
-STR_1527    :{SMALLFONT}{OPENQUOTES}This cotton candy from {STRINGID} is really good value{ENDQUOTES}
+STR_1527    :{SMALLFONT}{OPENQUOTES}This candyfloss from {STRINGID} is really good value{ENDQUOTES}
 STR_1528    :
 STR_1529    :
 STR_1530    :
@@ -1539,9 +1541,9 @@ STR_1533    :{SMALLFONT}{OPENQUOTES}This popcorn from {STRINGID} is really good 
 STR_1534    :{SMALLFONT}{OPENQUOTES}This hot dog from {STRINGID} is really good value{ENDQUOTES}
 STR_1535    :{SMALLFONT}{OPENQUOTES}This tentacle from {STRINGID} is really good value{ENDQUOTES}
 STR_1536    :{SMALLFONT}{OPENQUOTES}This hat from {STRINGID} is really good value{ENDQUOTES}
-STR_1537    :{SMALLFONT}{OPENQUOTES}This candy apple from {STRINGID} is really good value{ENDQUOTES}
+STR_1537    :{SMALLFONT}{OPENQUOTES}This toffee apple from {STRINGID} is really good value{ENDQUOTES}
 STR_1538    :{SMALLFONT}{OPENQUOTES}This T-shirt from {STRINGID} is really good value{ENDQUOTES}
-STR_1539    :{SMALLFONT}{OPENQUOTES}This donut from {STRINGID} is really good value{ENDQUOTES}
+STR_1539    :{SMALLFONT}{OPENQUOTES}This doughnut from {STRINGID} is really good value{ENDQUOTES}
 STR_1540    :{SMALLFONT}{OPENQUOTES}This coffee from {STRINGID} is really good value{ENDQUOTES}
 STR_1541    :
 STR_1542    :{SMALLFONT}{OPENQUOTES}This fried chicken from {STRINGID} is really good value{ENDQUOTES}
@@ -1561,9 +1563,9 @@ STR_1555    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride phot
 STR_1556    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an umbrella from {STRINGID}{ENDQUOTES}
 STR_1557    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a drink from {STRINGID}{ENDQUOTES}
 STR_1558    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a burger from {STRINGID}{ENDQUOTES}
-STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fries from {STRINGID}{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for chips from {STRINGID}{ENDQUOTES}
 STR_1560    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an ice cream from {STRINGID}{ENDQUOTES}
-STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for cotton candy from {STRINGID}{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for candyfloss from {STRINGID}{ENDQUOTES}
 STR_1562    :
 STR_1563    :
 STR_1564    :
@@ -1573,9 +1575,9 @@ STR_1567    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for popcorn from {S
 STR_1568    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hot dog from {STRINGID}{ENDQUOTES}
 STR_1569    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for tentacle from {STRINGID}{ENDQUOTES}
 STR_1570    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hat from {STRINGID}{ENDQUOTES}
-STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a candy apple from {STRINGID}{ENDQUOTES}
+STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a toffee apple from {STRINGID}{ENDQUOTES}
 STR_1572    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a T-shirt from {STRINGID}{ENDQUOTES}
-STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a donut from {STRINGID}{ENDQUOTES}
+STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a doughnut from {STRINGID}{ENDQUOTES}
 STR_1574    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for coffee from {STRINGID}{ENDQUOTES}
 STR_1575    :
 STR_1576    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried chicken from {STRINGID}{ENDQUOTES}
@@ -1732,8 +1734,8 @@ STR_1726    :Land not for sale!
 STR_1727    :Construction rights not for sale!
 STR_1728    :Can't buy construction rights here...
 STR_1729    :Land not owned by park!
-STR_1730    :{RED}Closed - - 
-STR_1731    :{WHITE}{STRINGID} - - 
+STR_1730    :{RED}Closed - -
+STR_1731    :{WHITE}{STRINGID} - -
 STR_1732    :Build
 STR_1733    :Mode
 STR_1734    :{WINDOW_COLOUR_2}Number of laps:
@@ -1755,7 +1757,7 @@ STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DUR
 STR_1750    :{DURATION}
 STR_1751    :Can't change time limit for ride...
 STR_1752    :{SMALLFONT}{BLACK}Show list of individual guests in park
-STR_1753    :{SMALLFONT}{BLACK}Show summarized list of guests in park
+STR_1753    :{SMALLFONT}{BLACK}Show summarised list of guests in park
 STR_1754    :{BLACK}{COMMA16} guests
 STR_1755    :{BLACK}{COMMA16} guest
 STR_1756    :{WINDOW_COLOUR_2}Admission price:
@@ -1780,7 +1782,7 @@ STR_1774    :Only one cable lift hill allowed per ride
 STR_1775    :Off
 STR_1776    :On
 STR_1777    :{WINDOW_COLOUR_2}Music
-STR_1778    :{STRINGID} - - 
+STR_1778    :{STRINGID} - -
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elephant costume
@@ -1792,8 +1794,8 @@ STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaut costume
 STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandit costume
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Sheriff costume
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirate costume
-STR_1790    :{SMALLFONT}{BLACK}Select uniform color for this type of staff
-STR_1791    :{WINDOW_COLOUR_2}Uniform color:
+STR_1790    :{SMALLFONT}{BLACK}Select uniform colour for this type of staff
+STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
 STR_1792    :Responding to {STRINGID} breakdown call
 STR_1793    :Heading to {STRINGID} for an inspection
 STR_1794    :Fixing {STRINGID}
@@ -1821,7 +1823,7 @@ STR_1815    :Thoughts
 STR_1816    :{SMALLFONT}{BLACK}Select information type to show in guest list
 STR_1817    :({COMMA16})
 STR_1818    :{WINDOW_COLOUR_2}All guests
-STR_1819    :{WINDOW_COLOUR_2}All guests (summarized)
+STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
 STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Guests thinking {STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
@@ -1836,7 +1838,7 @@ STR_1830    :Queue length
 STR_1831    :Queue time
 STR_1832    :Reliability
 STR_1833    :Down-time
-STR_1834    :Guests favorite
+STR_1834    :Guests favourite
 STR_1835    :Popularity: Unknown
 STR_1836    :Popularity: {COMMA16}%
 STR_1837    :Satisfaction: Unknown
@@ -1844,8 +1846,8 @@ STR_1838    :Satisfaction: {COMMA16}%
 STR_1839    :Reliability: {COMMA16}%
 STR_1840    :Down-time: {COMMA16}%
 STR_1841    :Profit: {CURRENCY2DP} per hour
-STR_1842    :Favorite of: {COMMA16} guest
-STR_1843    :Favorite of: {COMMA16} guests
+STR_1842    :Favourite of: {COMMA16} guest
+STR_1843    :Favourite of: {COMMA16} guests
 STR_1844    :{SMALLFONT}{BLACK}Select information type to show in ride/attraction list
 STR_1845    :{MONTHYEAR}
 STR_1846    :{COMMA16} guests
@@ -1971,9 +1973,9 @@ STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
 STR_1964    :{WINDOW_COLOUR_2}Umbrella price:
 STR_1965    :{WINDOW_COLOUR_2}Drink price:
 STR_1966    :{WINDOW_COLOUR_2}Burger price:
-STR_1967    :{WINDOW_COLOUR_2}Fries price:
+STR_1967    :{WINDOW_COLOUR_2}Chips price:
 STR_1968    :{WINDOW_COLOUR_2}Ice Cream price:
-STR_1969    :{WINDOW_COLOUR_2}Cotton Candy price:
+STR_1969    :{WINDOW_COLOUR_2}Candyfloss price:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
@@ -1983,9 +1985,9 @@ STR_1975    :{WINDOW_COLOUR_2}Popcorn price:
 STR_1976    :{WINDOW_COLOUR_2}Hot Dog price:
 STR_1977    :{WINDOW_COLOUR_2}Tentacle price:
 STR_1978    :{WINDOW_COLOUR_2}Hat price:
-STR_1979    :{WINDOW_COLOUR_2}Candy Apple price:
+STR_1979    :{WINDOW_COLOUR_2}Toffee Apple price:
 STR_1980    :{WINDOW_COLOUR_2}T-Shirt price:
-STR_1981    :{WINDOW_COLOUR_2}Donut price:
+STR_1981    :{WINDOW_COLOUR_2}Doughnut price:
 STR_1982    :{WINDOW_COLOUR_2}Coffee price:
 STR_1983    :{WINDOW_COLOUR_2}
 STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
@@ -1999,9 +2001,9 @@ STR_1991    :On-Ride Photo
 STR_1992    :Umbrella
 STR_1993    :Drink
 STR_1994    :Burger
-STR_1995    :Fries
+STR_1995    :Chips
 STR_1996    :Ice Cream
-STR_1997    :Cotton Candy
+STR_1997    :Candyfloss
 STR_1998    :Empty Can
 STR_1999    :Rubbish
 STR_2000    :Empty Burger Box
@@ -2011,9 +2013,9 @@ STR_2003    :Popcorn
 STR_2004    :Hot Dog
 STR_2005    :Tentacle
 STR_2006    :Hat
-STR_2007    :Candy Apple
+STR_2007    :Toffee Apple
 STR_2008    :T-Shirt
-STR_2009    :Donut
+STR_2009    :Doughnut
 STR_2010    :Coffee
 STR_2011    :Empty Cup
 STR_2012    :Fried Chicken
@@ -2027,9 +2029,9 @@ STR_2019    :On-Ride Photos
 STR_2020    :Umbrellas
 STR_2021    :Drinks
 STR_2022    :Burgers
-STR_2023    :Fries
+STR_2023    :Chips
 STR_2024    :Ice Creams
-STR_2025    :Cotton Candy
+STR_2025    :Candyfloss
 STR_2026    :Empty Cans
 STR_2027    :Rubbish
 STR_2028    :Empty Burger Boxes
@@ -2039,9 +2041,9 @@ STR_2031    :Popcorn
 STR_2032    :Hot Dogs
 STR_2033    :Tentacles
 STR_2034    :Hats
-STR_2035    :Candy Apples
+STR_2035    :Toffee Apples
 STR_2036    :T-Shirts
-STR_2037    :Donuts
+STR_2037    :Doughnuts
 STR_2038    :Coffees
 STR_2039    :Empty Cups
 STR_2040    :Fried Chicken
@@ -2055,9 +2057,9 @@ STR_2047    :an On-Ride Photo
 STR_2048    :an Umbrella
 STR_2049    :a Drink
 STR_2050    :a Burger
-STR_2051    :some Fries
+STR_2051    :some Chips
 STR_2052    :an Ice Cream
-STR_2053    :some Cotton Candy
+STR_2053    :some Candyfloss
 STR_2054    :an Empty Can
 STR_2055    :some Rubbish
 STR_2056    :an Empty Burger Box
@@ -2067,9 +2069,9 @@ STR_2059    :some Popcorn
 STR_2060    :a Hot Dog
 STR_2061    :a Tentacle
 STR_2062    :a Hat
-STR_2063    :a Candy Apple
+STR_2063    :a Toffee Apple
 STR_2064    :a T-Shirt
-STR_2065    :a Donut
+STR_2065    :a Doughnut
 STR_2066    :a Coffee
 STR_2067    :an Empty Cup
 STR_2068    :some Fried Chicken
@@ -2083,9 +2085,9 @@ STR_2075    :On-Ride Photo of {STRINGID}
 STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
 STR_2077    :Drink
 STR_2078    :Burger
-STR_2079    :Fries
+STR_2079    :Chips
 STR_2080    :Ice Cream
-STR_2081    :Cotton Candy
+STR_2081    :Candyfloss
 STR_2082    :Empty Can
 STR_2083    :Rubbish
 STR_2084    :Empty Burger Box
@@ -2095,9 +2097,9 @@ STR_2087    :Popcorn
 STR_2088    :Hot Dog
 STR_2089    :Tentacle
 STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Candy Apple
+STR_2091    :Toffee Apple
 STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
-STR_2093    :Donut
+STR_2093    :Doughnut
 STR_2094    :Coffee
 STR_2095    :Empty Cup
 STR_2096    :Fried Chicken
@@ -2364,7 +2366,7 @@ STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
 STR_2357    :House
 STR_2358    :Units
 STR_2359    :Real Values
-STR_2360    :{WINDOW_COLOUR_2}Display Resolution:
+STR_2360    :Display Resolution:
 STR_2361    :Landscape Smoothing
 STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
 STR_2363    :Gridlines on Landscape
@@ -2503,7 +2505,7 @@ STR_2495    :Cancel construction mode
 STR_2496    :Pause game
 STR_2497    :Zoom view out
 STR_2498    :Zoom view in
-STR_2499    :Rotate view
+STR_2499    :Rotate view clockwise
 STR_2500    :Rotate construction object
 STR_2501    :Underground view toggle
 STR_2502    :Remove base land toggle
@@ -2529,7 +2531,7 @@ STR_2521    :Show staff list
 STR_2522    :Show recent messages
 STR_2523    :Show map
 STR_2524    :Screenshot
-
+### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
 STR_2526    :???
 STR_2527    :???
@@ -2755,7 +2757,6 @@ STR_2746    :]
 STR_2747    :{ENDQUOTES}
 STR_2748    :Bar
 STR_2749    :My new scenario
-
 # New strings used in the cheats window previously these were ???
 STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
@@ -2764,8 +2765,8 @@ STR_2753    :Mowed grass
 STR_2754    :Water plants
 STR_2755    :Fix vandalism
 STR_2756    :Remove litter
-STR_2757    :Force Sun
-STR_2758    :Force Thunder
+STR_2757    :<not used anymore>
+STR_2758    :<not used anymore>
 STR_2759    :Zero Clearance
 STR_2760    :+{CURRENCY}
 STR_2761    :<not used anymore>
@@ -2789,10 +2790,9 @@ STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
 STR_2779    :Viewport #{COMMA16}
 STR_2780    :Extra viewport
 # End of new strings
-
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
-STR_2782    :SHIFT + 
-STR_2783    :CTRL + 
+STR_2782    :SHIFT +
+STR_2783    :CTRL +
 STR_2784    :Change keyboard shortcut
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
@@ -2815,12 +2815,12 @@ STR_2802    :Map
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
 STR_2805    :{SMALLFONT}{BLACK}Show map of park
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
+STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
+STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
+STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
 STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
 STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can't find the restrooms in your park
+STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
 STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
 STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
 STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
@@ -2833,11 +2833,11 @@ STR_2820    :{WINDOW_COLOUR_2}Safest park award
 STR_2821    :{WINDOW_COLOUR_2}Best staff award
 STR_2822    :{WINDOW_COLOUR_2}Best park food award
 STR_2823    :{WINDOW_COLOUR_2}Worst park food award
-STR_2824    :{WINDOW_COLOUR_2}Best park restrooms award
+STR_2824    :{WINDOW_COLOUR_2}Best park toilets award
 STR_2825    :{WINDOW_COLOUR_2}Most disappointing park award
 STR_2826    :{WINDOW_COLOUR_2}Best water rides award
 STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
-STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride color schemes award
+STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
 STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
 STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
 STR_2831    :{TOPAZ}Your park has received an award for being 'The most untidy park in the country'!
@@ -2850,11 +2850,11 @@ STR_2837    :{TOPAZ}Your park has received an award for being 'The safest park i
 STR_2838    :{TOPAZ}Your park has received an award for being 'The park with the best staff'!
 STR_2839    :{TOPAZ}Your park has received an award for being 'The park with the best food in the country'!
 STR_2840    :{TOPAZ}Your park has received an award for being 'The park with the worst food in the country'!
-STR_2841    :{TOPAZ}Your park has received an award for being 'The park with the best restroom facilities in the country'!
+STR_2841    :{TOPAZ}Your park has received an award for being 'The park with the best toilet facilities in the country'!
 STR_2842    :{TOPAZ}Your park has received an award for being 'The most disappointing park in the country'!
 STR_2843    :{TOPAZ}Your park has received an award for being 'The park with the best water rides in the country'!
 STR_2844    :{TOPAZ}Your park has received an award for being 'The park with the best custom-designed rides'!
-STR_2845    :{TOPAZ}Your park has received an award for being 'The park with the most dazzling choice of color schemes'!
+STR_2845    :{TOPAZ}Your park has received an award for being 'The park with the most dazzling choice of colour schemes'!
 STR_2846    :{TOPAZ}Your park has received an award for being 'The park with the most confusing layout'!
 STR_2847    :{TOPAZ}Your park has received an award for being 'The park with the best gentle rides'!
 STR_2848    :{WINDOW_COLOUR_2}No recent awards
@@ -2937,7 +2937,7 @@ STR_2924    :{WINDOW_COLOUR_2}Special Thanks to:  Peter Matiss
 STR_2925    :{WINDOW_COLOUR_2}Engineering Specialist:  Ken Edwards
 STR_2926    :{WINDOW_COLOUR_2}Engineering Services Manager:  Luis Rivas
 STR_2927    :{WINDOW_COLOUR_2}Lead Compatibility Analyst:  Geoffrey Smith
-STR_2928    :{WINDOW_COLOUR_2}Compatibility Analysts:  Jason Cordero, Burke McQuinn, Kim Jardin 
+STR_2928    :{WINDOW_COLOUR_2}Compatibility Analysts:  Jason Cordero, Burke McQuinn, Kim Jardin
 STR_2929    :{WINDOW_COLOUR_2}Lead Tester:  Daniel Frisoli
 STR_2930    :{WINDOW_COLOUR_2}Senior Tester:  Matt Pantaleoni
 STR_2931    :{WINDOW_COLOUR_2}
@@ -2980,17 +2980,17 @@ STR_2967    :
 STR_2968    :
 STR_2969    :<not used anymore>
 STR_2970    :<not used anymore>
-STR_2971    :Main color scheme
-STR_2972    :Alternative color scheme 1
-STR_2973    :Alternative color scheme 2
-STR_2974    :Alternative color scheme 3
-STR_2975    :{SMALLFONT}{BLACK}Select which color scheme to change, or paint ride with
-STR_2976    :{SMALLFONT}{BLACK}Paint an individual area of this ride using the selected color scheme
+STR_2971    :Main colour scheme
+STR_2972    :Alternative colour scheme 1
+STR_2973    :Alternative colour scheme 2
+STR_2974    :Alternative colour scheme 3
+STR_2975    :{SMALLFONT}{BLACK}Select which colour scheme to change, or paint ride with
+STR_2976    :{SMALLFONT}{BLACK}Paint an individual area of this ride using the selected colour scheme
 STR_2977    :Staff member name
 STR_2978    :Enter new name for this member of staff:
 STR_2979    :Can't name staff member...
 STR_2980    :Too many banners in game
-STR_2981    :{RED}No entry - - 
+STR_2981    :{RED}No entry - -
 STR_2982    :Banner text
 STR_2983    :Enter new text for this banner:
 STR_2984    :Can't set new text for banner...
@@ -2998,8 +2998,8 @@ STR_2985    :Banner
 STR_2986    :{SMALLFONT}{BLACK}Change text on banner
 STR_2987    :{SMALLFONT}{BLACK}Set this banner as a 'no-entry' sign for guests
 STR_2988    :{SMALLFONT}{BLACK}Demolish this banner
-STR_2989    :{SMALLFONT}{BLACK}Select main color
-STR_2990    :{SMALLFONT}{BLACK}Select text color
+STR_2989    :{SMALLFONT}{BLACK}Select main colour
+STR_2990    :{SMALLFONT}{BLACK}Select text colour
 STR_2991    :Sign
 STR_2992    :Sign text
 STR_2993    :Enter new text for this sign:
@@ -3090,7 +3090,7 @@ STR_3077    :{RED}CLOSURE NOTICE: Your park has been closed down !
 STR_3078    :Plain entrance
 STR_3079    :Wooden entrance
 STR_3080    :Canvas tent entrance
-STR_3081    :Castle entrance (gray)
+STR_3081    :Castle entrance (grey)
 STR_3082    :Castle entrance (brown)
 STR_3083    :Jungle entrance
 STR_3084    :Log cabin entrance
@@ -3102,16 +3102,16 @@ STR_3089    :Space entrance
 STR_3090    :{SMALLFONT}{BLACK}Select style of entrance, exit, and station
 STR_3091    :You are not allowed to remove this section!
 STR_3092    :You are not allowed to move or modify the station for this ride!
-STR_3093    :{WINDOW_COLOUR_2}Favorite: {BLACK}{STRINGID}
+STR_3093    :{WINDOW_COLOUR_2}Favourite: {BLACK}{STRINGID}
 STR_3094    :N/A
 STR_3095    :{WINDOW_COLOUR_2}Lift hill chain speed:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_3097    :{SMALLFONT}{BLACK}Select lift hill chain speed
 STR_3098    :Can't change lift hill speed...
-STR_3099    :{SMALLFONT}{BLACK}Select color
-STR_3100    :{SMALLFONT}{BLACK}Select second color
-STR_3101    :{SMALLFONT}{BLACK}Select third color
-STR_3102    :{SMALLFONT}{BLACK}Re-paint colored scenery on landscape
+STR_3099    :{SMALLFONT}{BLACK}Select colour
+STR_3100    :{SMALLFONT}{BLACK}Select second colour
+STR_3101    :{SMALLFONT}{BLACK}Select third colour
+STR_3102    :{SMALLFONT}{BLACK}Re-paint coloured scenery on landscape
 STR_3103    :Can't re-paint this...
 STR_3104    :{SMALLFONT}{BLACK}List rides
 STR_3105    :{SMALLFONT}{BLACK}List shops and stalls
@@ -3131,8 +3131,8 @@ STR_3118    :{BLACK}{STRINGID} is heading for the ride
 STR_3119    :{BLACK}{STRINGID} is fixing the ride
 STR_3120    :{SMALLFONT}{BLACK}Locate nearest available mechanic, or mechanic fixing ride
 STR_3121    :Unable to locate mechanic, or all nearby mechanics are busy
-STR_3122    :{WINDOW_COLOUR_2}Favorite ride of: {BLACK}{COMMA16} guest
-STR_3123    :{WINDOW_COLOUR_2}Favorite ride of: {BLACK}{COMMA16} guests
+STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guest
+STR_3123    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guests
 STR_3124    :Broken {STRINGID}
 STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
@@ -3172,13 +3172,13 @@ STR_3159    :list
 STR_3160    :<not used anymore>
 STR_3161    :<not used anymore>
 STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
+STR_3163    :Installing new data:
 STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
 STR_3165    :
-STR_3166    :{BLACK}(ID: 
+STR_3166    :{BLACK}(ID:
 STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
 STR_3168    :{WINDOW_COLOUR_2}Text: {BLACK}{STRINGID}
-STR_3169    :Data for the following object not found: 
+STR_3169    :Data for the following object not found:
 STR_3170    :Not enough space for graphics
 STR_3171    :Too many objects of this type selected
 STR_3172    :The following object must be selected first: {STRING}
@@ -3332,8 +3332,8 @@ STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
 STR_3320    :Unable to save scenario file...
 STR_3321    :New objects installed successfully
 STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
-STR_3323    :Missing object data, ID: 
-STR_3324    :Requires Add-On Pack: 
+STR_3323    :Missing object data, ID:
+STR_3324    :Requires Add-On Pack: {STRINGID}
 STR_3325    :Requires an Add-On Pack
 STR_3326    :{WINDOW_COLOUR_2}(no image)
 STR_3327    :Starting positions for people not set
@@ -3381,8 +3381,8 @@ STR_3368    :{BLACK}= Drink Stall
 STR_3369    :{BLACK}= Souvenir Stall
 STR_3370    :{BLACK}= Info. Kiosk
 STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= A.T.M.
-STR_3373    :{BLACK}= Restroom
+STR_3372    :{BLACK}= Cash Machine
+STR_3373    :{BLACK}= Toilet
 STR_3374    :Warning: Too many objects selected!
 STR_3375    :Not all objects in this scenery group could be selected
 STR_3376    :Install new track design...
@@ -3400,6 +3400,7 @@ STR_3387    :Roller Coaster Building Tutorial
 STR_3388    :Unable to switch to selected mode
 STR_3389    :Unable to select additional item of scenery...
 STR_3390    :Too many items selected
+# Start of tutorial strings. Not used at the moment, so not necessary to translate.
 STR_3391    :{SMALLFONT}{BLACK}Here is our park - Let's have a quick look around...
 STR_3392    :{SMALLFONT}{BLACK}Holding down the RIGHT mouse button and moving the mouse is the quickest way to move the view...
 STR_3393    :{SMALLFONT}{BLACK}To view more of the park, you can zoom the view out using the icon at the top of the screen...
@@ -3445,7 +3446,8 @@ STR_3432    :{SMALLFONT}{BLACK}We need to slow the train before the final curve 
 STR_3433    :{SMALLFONT}{BLACK}And finally we'll add 'block brakes', which allow two trains to operate more safely on the circuit...
 STR_3434    :{SMALLFONT}{BLACK}Let's test the ride and see if it works!
 STR_3435    :{SMALLFONT}{BLACK}Great - It worked! Let's add the footpaths and let guests onto our new roller coaster...
-STR_3436    :{SMALLFONT}{BLACK}While waiting for our first riders, we could customize the ride a bit...
+STR_3436    :{SMALLFONT}{BLACK}While waiting for our first riders, we could customise the ride a bit...
+# End of tutorial strings
 STR_3437    :{SMALLFONT}{BLACK}Clear large areas of scenery from landscape
 STR_3438    :Unable to remove all scenery from here...
 STR_3439    :Clear Scenery
@@ -3487,11 +3489,9 @@ STR_5145    :Turbo Speed
 STR_5146    :Hyper Speed
 STR_5147    :Cheats
 STR_5148    :{SMALLFONT}{BLACK}Change the game speed
-STR_5149    :{SMALLFONT}{BLACK}Open the cheats window
+STR_5149    :{SMALLFONT}{BLACK}Show cheat options
 STR_5150    :Enable debugging tools
-#Thousands separator
 STR_5151    :,
-#Decimals separator
 STR_5152    :.
 STR_5153    :Edit Themes...
 STR_5154    :Hardware display
@@ -3526,7 +3526,7 @@ STR_5182    :{INT32}
 STR_5183    :Base height
 STR_5184    :Enter base height between {COMMA16} and {COMMA16}
 STR_5185    :Water level
-STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
+STR_5186    :Enter water level between {COMMA16} and {COMMA16}
 STR_5187    :Finances
 STR_5188    :New Campaign
 STR_5189    :Research
@@ -3614,7 +3614,7 @@ STR_5270    :{SMALLFONT}{BLACK}Miscellaneous
 STR_5271    :{SMALLFONT}{BLACK}Twitch
 STR_5272    :{SMALLFONT}{BLACK}Small Scenery
 STR_5273    :{SMALLFONT}{BLACK}Large Scenery
-STR_5274    :{SMALLFONT}{BLACK}Footpaths
+STR_5274    :{SMALLFONT}{BLACK}Footpath
 STR_5275    :Search for Objects
 STR_5276    :Enter the name of an object to search for
 STR_5277    :Clear
@@ -3646,8 +3646,8 @@ STR_5302    :Clear loan
 STR_5303    :Allow building in pause mode
 STR_5304    :Title Sequence:
 STR_5305    :RollerCoaster Tycoon 1
-STR_5306    :RollerCoaster Tycoon 1 (CF)
-STR_5307    :RollerCoaster Tycoon 1 (CF + LL)
+STR_5306    :RollerCoaster Tycoon 1 (AA)
+STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
 STR_5310    :Random
@@ -3768,7 +3768,7 @@ STR_5424    :Wait{MOVE_X}{87}{COMMA16}
 STR_5425    :Restart
 STR_5426    :End
 STR_5427    :Coordinates:
-STR_5428    :Counter-clockwise rotations:
+STR_5428    :Anticlockwise rotations:
 STR_5429    :Zoom level:
 STR_5430    :Seconds to wait:
 STR_5431    :Save to load:
@@ -3780,7 +3780,7 @@ STR_5436    :Edit Title Sequences...
 STR_5437    :No save selected
 STR_5438    :Can't make changes while command editor is open
 STR_5439    :A wait command with at least 4 seconds is required with a restart command
-STR_5440    :Minimize fullscreen on focus loss
+STR_5440    :Minimise fullscreen on focus loss
 STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
 STR_5442    :Force park rating:
 STR_5443    :Speed{MOVE_X}{87}{STRINGID}
@@ -3799,15 +3799,15 @@ STR_5455    :Enable sandbox mode
 STR_5456    :Disable clearance checks
 STR_5457    :Disable support limits
 STR_5458    :Rotate clockwise
-STR_5459    :Rotate counterclockwise
-STR_5460    :Rotate view counterclockwise
+STR_5459    :Rotate anti-clockwise
+STR_5460    :Rotate view anti-clockwise
 STR_5461    :Set guests' parameters
 STR_5462    :{CURRENCY}
 STR_5463    :Goal: Have fun!
 STR_5464    :General
 STR_5465    :Climate
 STR_5466    :Staff
-STR_5467    :ALT + 
+STR_5467    :ALT +
 STR_5468    :Recent messages
 STR_5469    :Scroll map up
 STR_5470    :Scroll map left
@@ -3855,9 +3855,9 @@ STR_5511    :(UNKNOWN)
 STR_5512    :Save Game As
 STR_5513    :(Quick) save game
 STR_5514    :Disable vandalism
-STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalizing your park when they're angry
+STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
 STR_5516    :{SMALLFONT}{BLACK}Black
-STR_5517    :{SMALLFONT}{BLACK}Gray
+STR_5517    :{SMALLFONT}{BLACK}Grey
 STR_5518    :{SMALLFONT}{BLACK}White
 STR_5519    :{SMALLFONT}{BLACK}Dark purple
 STR_5520    :{SMALLFONT}{BLACK}Light purple
@@ -3896,8 +3896,8 @@ STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {M
 STR_5553    :Pause game when Steam overlay is open
 STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
 STR_5555    :Show vehicles from other track types
-STR_5556    :Kick Player
-STR_5557    :Stay connected after desynchronization (Multiplayer)
+STR_5556    :{SMALLFONT}{BLACK}Kick player
+STR_5557    :Stay connected after desynchronisation (Multiplayer)
 STR_5558    :A restart is required for this setting to take effect
 STR_5559    :10 min. inspections
 STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
@@ -3912,13 +3912,13 @@ STR_5568    :Password Required
 STR_5569    :This server requires a password
 STR_5570    :Fetch Servers
 STR_5571    :Join Game
-STR_5572    :Add To Favorites
-STR_5573    :Remove From Favorites
+STR_5572    :Add To Favourites
+STR_5573    :Remove From Favourites
 STR_5574    :Server Name:
 STR_5575    :Max Players:
 STR_5576    :Port:
 STR_5577    :South Korean Won (W)
-STR_5578    :Russian Ruble (R)
+STR_5578    :Russian Rouble (R)
 STR_5579    :Window scale factor:
 STR_5580    :Czech koruna (Kc)
 STR_5581    :Show FPS
@@ -3960,7 +3960,7 @@ STR_5616    :{SMALLFONT}{BLACK}Last element for tile flag
 STR_5617    :{SMALLFONT}{BLACK}Move selected element up.
 STR_5618    :{SMALLFONT}{BLACK}Move selected element down.
 STR_5619    :RollerCoaster Tycoon
-STR_5620    :Corkscrew Follies
+STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
@@ -3973,8 +3973,8 @@ STR_5629    :Difficulty level
 STR_5630    :Enable unlocking of scenarios
 STR_5631    :Original DLC Parks
 STR_5632    :Build your own...
-STR_5633    :CMD + 
-STR_5634    :OPTION + 
+STR_5633    :CMD +
+STR_5634    :OPTION +
 STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
 STR_5637    :Can't do this...
@@ -4035,20 +4035,18 @@ STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
 STR_5727    :Scaling quality
 STR_5728    :Requires hardware display option
 STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
-STR_5730    :Nearest neighbor
+STR_5730    :Nearest neighbour
 STR_5731    :Linear
 STR_5732    :Anisotropic
 STR_5733    :Use NN scaling at integer scales
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
-STR_5735    :Network Status
-STR_5736    :Player
 
 #############
 # Scenarios #
-#############
-
-## RCT Original
+################
+# RCT Original #
+################
 <Forest Frontiers>
 STR_SCNR    :Forest Frontiers
 STR_PARK    :Forest Frontiers
@@ -4085,18 +4083,18 @@ STR_PARK    :Trinity Islands
 STR_DTLS    :Several islands form the basis for this new park
 
 <Katie's Dreamland>
-STR_SCNR    :Katie's World
-STR_PARK    :Katie's World
+STR_SCNR    :Katie's Dreamland
+STR_PARK    :Katie's Dreamland
 STR_DTLS    :A small theme park with a few rides and room for expansion - Your aim is to double the park value
 
 <Pokey Park>
-STR_SCNR    :Dinky Park
-STR_PARK    :Dinky Park
+STR_SCNR    :Pokey Park
+STR_PARK    :Pokey Park
 STR_DTLS    :A small, cramped amusement park which requires major expansion
 
 <White Water Park>
-STR_SCNR    :Aqua Park
-STR_PARK    :Aqua Park
+STR_SCNR    :White Water Park
+STR_PARK    :White Water Park
 STR_DTLS    :A park with some excellent water-based rides requires expansion
 
 <Millennium Mines>
@@ -4115,9 +4113,9 @@ STR_PARK    :Mel's World
 STR_DTLS    :This theme park has some well-designed modern rides, but plenty of space for expansion
 
 <Mystic Mountain>
-STR_SCNR    :Mothball Mountain
-STR_PARK    :Mothball Mountain
-STR_DTLS    :In the hilly forests of Mothball Mountain, build a theme park from scratch
+STR_SCNR    :Mystic Mountain
+STR_PARK    :Mystic Mountain
+STR_DTLS    :In the hilly forests of Mystic Mountain, build a theme park from scratch
 
 <Pacific Pyramids>
 STR_SCNR    :Pacific Pyramids
@@ -4130,8 +4128,8 @@ STR_PARK    :Crumbly Woods
 STR_DTLS    :A large park with well-designed but rather old rides - Replace the old rides or add new rides to make the park more popular
 
 <Paradise Pier>
-STR_SCNR    :Big Pier
-STR_PARK    :Big Pier
+STR_SCNR    :Paradise Pier
+STR_PARK    :Paradise Pier
 STR_DTLS    :Convert this sleepy town's pier into a thriving attraction
 
 <Lightning Peaks>
@@ -4159,7 +4157,7 @@ STR_SCNR    :Mega Park
 STR_PARK    :Mega Park
 STR_DTLS    :Just for fun!
 
-## Corkscrew Follies
+## Added Attractions
 <Whispering Cliffs>
 STR_SCNR    :Whispering Cliffs
 STR_PARK    :Whispering Cliffs
@@ -4310,6 +4308,7 @@ STR_SCNR    :Geoffrey Gardens
 STR_PARK    :Geoffrey Gardens
 STR_DTLS    :A large garden park needs turning into a thriving theme park
 
+
 ## Loopy Landscapes
 <Iceberg Islands>
 STR_SCNR    :Iceberg Islands
@@ -4342,9 +4341,9 @@ STR_PARK    :Vertigo Views
 STR_DTLS    :This large park already has an excellent hyper-coaster, but your task is to massively increase its profit
 
 <Paradise Pier 2>
-STR_SCNR    :Big Pier 2
-STR_PARK    :Big Pier 2
-STR_DTLS    :Big Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space
+STR_SCNR    :Paradise Pier 2
+STR_PARK    :Paradise Pier 2
+STR_DTLS    :Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space
 
 <Dragon's Cove>
 STR_SCNR    :Dragon's Cove
@@ -4485,9 +4484,9 @@ STR_SCNR    :Fort Anachronism
 STR_PARK    :Fort Anachronism
 STR_DTLS    :
 
-#########
-# Rides #
-#########
+#####################
+# Rides/attractions #
+#####################
 
 #WW
 [CONDORRD]

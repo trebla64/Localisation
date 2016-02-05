@@ -1,0 +1,10 @@
+* What is steeplechase?
+* 'drops'   -> 'afdalings'
+* 'track'   -> 'baan'
+* 'zig-zag' -> 'kronkelende'
+* 'ruiters' -> 'besoekers'
+
+Typo in english_uk:
+  Idx 0574
+
+Terrible translation in 0574
